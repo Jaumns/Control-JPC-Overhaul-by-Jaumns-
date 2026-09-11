@@ -1,0 +1,29 @@
+DualsenseMod v2.3 by Thanos Petsas (SkyExplosionist)
+Game version: 2060881
+Module base: 00007FF72A120000
+Sigscan start
+Sigscan elapsed: 69 ms.
+Offsets: 108, 37468, 1A38, 298
+OnGameEvent_Internal at 00007FF72A4D1F00
+DSM_ModelHandle_GetPropertyHandle at 00007FFDEA51F450
+InputManager_pInstance at 00007FFE3CCD6880
+DSM_InputManager_IsMenuOn at 00007FFE3CCC8DF0
+InputManager_IsGameOn at 00007FFE3CCC8DD0
+InputManager_SetGame_Internal at 00007FFE3CCC8DE0
+InputManager_SetMenu_Internal at 00007FFE3CCC8E00
+Addresses set
+Config: [debug mode: false]
+Applying hooks...
+Hooks applied successfully!
+Ready.
+Client starting DualSensitive Service...
+
+Task exists: 33
+Running task, command: schtasks /run /TN "DualSensitive Service" /I 
+Service ran successfully
+DualSensitive Service launched successfully...
+
+Client starting DualSensitive Service...
+
+DualSensitive Service launched successfully...
+

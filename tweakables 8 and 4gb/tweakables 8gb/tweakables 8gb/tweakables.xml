@@ -1,0 +1,21 @@
+<tweakables>
+  <tweakable type="float1" name="Texture Streaming:Max texture load time per update (ms)" value="100.000000"/>
+  <tweakable type="float1" name="Texture Streaming:Max texture request time per update (ms)" value="10.000000"/>
+  <tweakable type="int" name="Texture Streaming:Update Slices" value="1"/>
+  <tweakable type="float1" name="Texture Streaming:Distance scale" value="0.250000"/>
+  <tweakable type="float1" name="Texture Streaming:Mip target bias" value="0.500000"/>
+  <tweakable type="int" name="Texture Streaming:Min Pool Size MB" value="2048"/>
+  <tweakable type="int" name="Texture Streaming:Target texture pool size MB" value="4096"/>
+  <tweakable type="int" name="Texture Streaming:Max Dropped Mips (Characters)" value="2"/>
+  <tweakable type="int" name="Texture Streaming:Max Dropped Mips (Player)" value="0"/>
+  <tweakable type="bool" name="LOD: Use ObjectScaleOverride" value="1"/>
+  <tweakable type="float1" name="LOD: ObjectScaleOverride" value="5.000000"/>
+  <tweakable type="float1" name="Hierarchy LOD:Distance scale" value="5.000000"/>
+  <tweakable type="float1" name="Rendering:RT Reflection ray length" value="100.000000"/>
+  <tweakable type="float1" name="Rendering:RT Reflection roughness cutoff" value="0.500000"/>
+  <tweakable type="float1" name="Rendering:Shadow distance" value="120.000000"/>
+  <tweakable type="float1" name="Rendering:Shadow cascade split lambda" value="0.950000"/>
+  <tweakable type="int" name="Rendering:Shadow cascade count" value="4"/>
+  <tweakable type="float1" name="Rendering:Shadow depth bias" value="0.001000"/>
+  <tweakable type="float1" name="Rendering:Shadow normal bias" value="0.500000"/>
+</tweakables>
